@@ -1,0 +1,43 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    color: #043e40;
+}
+
+h3 {
+    color: #049a8f;
+}
+
+h4 {
+    color: #037971
+}
+
+header h2 {
+    color: black;
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-image: linear-gradient(to right, #00bfb3, #049a8f, #037971);
+    color: white; 
+}
+
+.formstyle {
+    padding: 20px;
+    border: solid 
+}
+
+.infosections {
+    padding: 20px;
+}
+
+.exercisevideos {
+    padding: 20px;
+}
